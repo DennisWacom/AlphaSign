@@ -15,5 +15,10 @@ AlphaSign is a demo application to allow users to sign pdf documents by placing 
 1. Open pdf
 2. Save pdf
 3. Sign pdf with Wacom Signature SDK
-4. Display signature information ![alt-text](https://github.com/DennisWacom/AlphaSign/blob/master/AlphaSign_SignatureInfo.png?raw=true)
-5. Create and customize seal to sign ![alt-text](https://github.com/DennisWacom/AlphaSign/blob/master/AlphaSign_SealAndSign.png?raw=true)
+4. Display signature information
+![alt-text](https://github.com/DennisWacom/AlphaSign/blob/master/AlphaSign_SignatureInfo.png?raw=true)
+5. Create and customize seal to sign
+![alt-text](https://github.com/DennisWacom/AlphaSign/blob/master/AlphaSign_SealAndSign.png?raw=true)
+
+## Limitations
+1. Location of signature on the pdf is hardcoded. No way for user to specify where the signature is placed in the pdf.
